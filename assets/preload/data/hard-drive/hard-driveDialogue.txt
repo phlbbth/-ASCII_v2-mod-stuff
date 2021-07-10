@@ -1,0 +1,6 @@
+:dad:AAAAU
+:bf:beep
+:dad:AAAAAAAUUUUUUUUUUU
+:bf:beeeeeeeeeeeeeeeep
+:dad:A
+:bf:B
